@@ -1,0 +1,4 @@
+name: HalloweenMonsters
+version: '${version}'
+main: org.infotoast.halloweenmonsters.HalloweenMonsters
+api-version: '1.20'
