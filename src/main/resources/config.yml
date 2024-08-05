@@ -1,0 +1,20 @@
+Prevent-Spawn:
+  - "creeper"
+  - "skeleton"
+  - "spider"
+  - "zombie"
+  - "zombie_villager"
+  - "witch"
+  - "husk"
+  - "pillager"
+  - "ravager"
+  - "stray"
+
+Halloween-Exceptions:
+  - "skeleton"
+  - "spider"
+  - "zombie"
+  - "zombie_villager"
+  - "witch"
+  - "husk"
+  - "stray"

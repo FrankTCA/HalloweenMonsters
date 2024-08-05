@@ -1,4 +1,5 @@
 name: HalloweenMonsters
 version: '${version}'
 main: org.infotoast.halloweenmonsters.HalloweenMonsters
+depend: [ "RealisticSeasons" ]
 api-version: '1.20'
